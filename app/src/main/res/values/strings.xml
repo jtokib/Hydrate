@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hydrate</string>
+    <string name="question1">Nutritionist recommend drinking half your body weight in water. Are you drinking enough water?</string>
+    <string name="weight">Enter Your Weight (in lbs):</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="answer_string_1">You should drink about</string>
+    <string name="answer_string_2">ounces of H2O a day</string>
+    <string name="counter_title">You\'ve had</string>
+    <string name="unit_of_measure">ounces so far</string>
+    <string name="small">1 Glass of Water - 8oz</string>
+    <string name="medium">1 Regular Water Bottle - 16.9oz</string>
+    <string name="large">1 Large Water - 33.8oz</string>
+    <string name="button_reset_counter">Reset Counter</string>
+    <string name="button_reset_weight">Reset Weight</string>
+</resources>
